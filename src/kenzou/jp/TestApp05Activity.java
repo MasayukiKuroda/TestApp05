@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 /*
  * testXXX XXXX
+ * kuroda
  */
 public class TestApp05Activity extends Activity {
     /** Called when the activity is first created. */
